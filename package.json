@@ -2,6 +2,7 @@
   "name": "williamwyip.github.io",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://williamwyip.github.io/williamwyip",
   "dependencies": {
     "bootstrap": "^5.3.3",
     "cra-template": "1.2.0",
